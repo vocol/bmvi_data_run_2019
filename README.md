@@ -1,1 +1,52 @@
-# bmvi_data_run_2019
+# BMVI Data-Run Datasets
+Event Homepage: [BMVI Data-Run](https://www.bmvi.de/SharedDocs/DE/Termine-mFUND/bmvi-data-run.html)
+Date: 22-23 March 2019
+
+This repository contais multiple datasets prepared for the BMVI Data-Run to be used by the participants. 
+
+Single Dataset Download: https://uni-bonn.sciebo.de/s/IGcOi2vy1lSyihE/download (63mb)
+
+# Linked Data
+![alt text](https://uni-bonn.sciebo.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=644&a=true&file=extended_lod_cloud.png&t=K7gmxdrRBIvwsFN&scalingup=0)
+
+### Sample Query - Road construction sites
+
+```sparql
+PREFIX alertc: <https://portal.limbo-project.org/dataset/alertCLocation/>
+PREFIX rc: <https://portal.limbo-project.org/dataset/roadconstruction/>
+PREFIX mv: <http://schema.mobivoc.org/>
+PREFIX wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> 
+
+SELECT (SAMPLE(?publicComment) as ?comment)
+                        ?roadConstruction
+                        ?startTime
+                        ?endTime
+                        ?speedLimit
+                        ?fromLat
+                        ?fromLon
+                        ?fromName
+                        ?toLat
+                        ?toLon
+                        ?toName
+WHERE 
+{ 
+  ?roadConstruction a mv:SituationRecord .
+  OPTIONAL {?roadConstruction mv:validity ?validity . } 
+  OPTIONAL { ?roadConstruction mv:generalPublicComment ?publicComment .}
+  OPTIONAL { ?validity mv:startTimeOverall ?startTime . }
+  OPTIONAL { ?validity mv:endTimeOverall ?endTime . }
+  OPTIONAL { ?roadConstruction mv:situationSpeedLimit ?speedLimit . }
+  ?roadConstruction mv:primaryLocation ?primaryLocation .
+  OPTIONAL { ?primaryLocation mv:locationName ?toName . }
+  OPTIONAL { ?primaryLocation wgs:lat ?toLat . }
+  OPTIONAL { ?primaryLocation wgs:long ?toLon . }
+  ?roadConstruction mv:secondaryLocation ?secondaryLocation .
+  OPTIONAL { ?secondaryLocation mv:locationName ?fromName . }
+  OPTIONAL { ?secondaryLocation wgs:lat ?fromLat . }
+  OPTIONAL { ?secondaryLocation wgs:long ?fromLon . }
+} GROUP BY ?roadConstruction  ?startTime ?endTime ?speedLimit ?fromLat ?fromLon ?fromName ?toLat ?toLon ?toName
+```
+
+
+Provided by: [LIMBO-Projekt](https://www.limbo-project.org/)
+Created by: [Niklas Petersen](http://np00.github.io/)
