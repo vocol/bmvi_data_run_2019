@@ -4,7 +4,7 @@ Date: 22-23 March 2019
 
 This repository contais multiple datasets prepared for the BMVI Data-Run to be used by the participants. 
 
-Single Dataset Download: https://uni-bonn.sciebo.de/s/IGcOi2vy1lSyihE/download (63mb)
+Single Dataset Download: https://uni-bonn.sciebo.de/s/IGcOi2vy1lSyihE/download (63mb, 454,835 triples)
 
 # Linked Data
 ![alt text](https://uni-bonn.sciebo.de/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=644&a=true&file=extended_lod_cloud.png&t=K7gmxdrRBIvwsFN&scalingup=0)
