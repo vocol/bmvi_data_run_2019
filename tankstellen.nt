@@ -1,0 +1,811 @@
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "An den Hafenterrassen" .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-58> .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://schema.org/telephone> "+49 381 8051901" .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Warnowufer-Warnowufer-58/28894/> .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40935142932916E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/d4a22f42-6955-11e8-a261-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21182308363439E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Golfclub Warnemünde" .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-13550-1> .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://schema.org/serviceUrl> <https://www.163grad.de/> .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://schema.org/brand> "163 Grad" .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41652454675609E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/6b37d4cc-e0ba-11e7-bcff-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20249965935386E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "AVIA" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-38> .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/telephone> "+49 381 716070" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/fuelType> "erdgas" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/serviceUrl> <http://www.avia.de/privatkunden.html> .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/brand> "AVIA Mineralöl-GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/email> "info@avia-rostock.de" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41323580582716E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c5c6902-6656-11e4-8a9f-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20639123462918E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "AVIA" .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-07650-16> .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://schema.org/telephone> "+49 451 1503315" .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://schema.org/serviceUrl> <http://www.avia.de/privatkunden.html> .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://schema.org/brand> "AVIA Mineralöl-GmbH" .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://schema.org/faxNumber> "+49 451 1503390" .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40764360015141E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2a5f18dc-0fd8-11e8-bbac-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21309871584861E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "CITTI TANK" .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/telephone> "+49 381 25278614" .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/serviceUrl> <http://www.citti-park-rostock.de/anbieter/detail/citti-tank-rostock.html> .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/brand> "CITTI Märkte GmbH & Co. KG" .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41237469856407E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/5b91ab02-68b7-11e4-a640-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20747091703767E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Strand-Hotel Hübner" .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-12> .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://schema.org/telephone> "+49 381 54340" .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Strand-Hotel-Huebner-Seestrasse-12/7226/> .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://schema.org/brand> "Hotel Hübner GmbH" .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://schema.org/email> "info@hotel-huebner.de" .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41802130499291E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/94e959e8-6964-11e8-a262-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20827047836568E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Esso" .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-09240-1> .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/telephone> "+49 381 6864820" .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/serviceUrl> <https://www.esso.de/> .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/brand> "Esso Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40828167505948E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c435110-6656-11e4-8a97-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21650637344675E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "A.T.U Rostock-Brinckmansdorf" .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-11130-3> .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://schema.org/telephone> "+49 381 6864671" .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/ATU-Timmermannsstrat-3/29596/> .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://schema.org/brand> "A.T.U Auto-Teile-Unger GmbH & Co. KG" .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://schema.org/email> "brinckmansdorf@atu.de" .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40814676421028E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/15636824-6966-11e8-a263-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21915512506629E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "EUROMASTER Rostock" .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/telephone> "+49 381 690295" .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Euromaster-Hinrichsdorfer-Strasse-7K/28508/> .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/brand> "EUROMASTER GmbH" .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/email> "sc203@euromaster.com" .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/faxNumber> "+49 381 690261" .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41109128219893E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/86bbcec0-6967-11e8-a264-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21645180731784E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Baltic-Freizeit" .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-01650-2> .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://schema.org/telephone> "+49 4544 800313" .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Markgrafenheide/Baltic-Freizeit-Budentannenweg-2/21139/> .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://schema.org/brand> "baltic-Freizeit GmbH" .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://schema.org/email> "info@baltic-freizeit.de" .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.42011877272827E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/8ce3b8ca-1193-11e8-b137-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21558615263851E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Hotel Neptun" .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-19> .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://schema.org/telephone> "+49 381 7770" .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Parkhaus-Hotel-NEPTUN-Seestrasse-19/18059/> .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://schema.org/brand> "Hotel NEPTUN Betriebsgesellschaft mbH" .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://schema.org/email> "info@hotel-neptun.de" .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41788610672235E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/444a59e2-1194-11e8-b138-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20775433185069E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Autohaus Brandt" .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-13> .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://schema.org/telephone> "+49 381 637000" .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Autohaus-Brandt-Trelleborger-Strasse-13/24476/> .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://schema.org/brand> "Autohaus Brandt & Strupp" .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://schema.org/email> "brandtstrupp@mobile.de" .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://schema.org/faxNumber> "+49 381 6370019" .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4133986879632E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/4f1ffa60-1195-11e8-b139-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20595136899581E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Elbotel" .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10060-2> .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://schema.org/telephone> "+49 381 80880" .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://schema.org/serviceUrl> <https://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Elbotel-Fritz-Triddelfitz-Weg-2/25184/> .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://schema.org/brand> "MV Hotel + Touristik GmbH" .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://schema.org/email> "info@elbotel.de" .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://schema.org/faxNumber> "+49 381 8088708" .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41039877779718E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/0edc928c-1196-11e8-b13a-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20869107904186E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Esso" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-09670-20> .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/telephone> "+49 381 1218877" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/serviceUrl> <https://www.esso.de/> .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/brand> "Esso Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://schema.org/openingHours> "Mo-Fr 05:00-22:00; Sa-So 06:00-22:00" .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41572830153948E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c126122-6656-11e4-8a8a-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20788457121095E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Hoyer" .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10480-11> .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/telephone> "+49 4262 799199" .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/serviceUrl> <https://www.hoyer-tankstellen.de/tankstelle/hoyer+automatenstation+rostock+br%c3%bcckenweg+11> .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/brand> "Wilhelm Hoyer KG" .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41135038936509E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/1d7a44c0-c0bc-11e4-8b65-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21729364577353E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "HanseMesse Rostock" .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-12540-1> .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://schema.org/telephone> "+49 381 8052000" .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/HanseMesse-Zur-HanseMesse-1-2/8541/> .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4138796023836E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/3124d89c-0d18-11e6-bea4-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20745833987363E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Haus des Bauens und der Umwelt" .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-03680-14> .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://schema.org/telephone> "+49 381 8051901" .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Tief-und-Hafenbauamt-Schweriner-Strasse-64/2993/> .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4093321107235E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c2b5aa6-6656-11e4-8a91-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2097830622513E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "IKEA Möbelhaus" .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-06980-25> .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://schema.org/telephone> "+49 6192 9399999" .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://schema.org/brand> "IKEA" .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://schema.org/openingHours> "Mo-Sa 10:00-20:00" .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41078829656195E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2eeac5bc-0d1a-11e6-bea5-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20521633836469E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Autohaus Krüll" .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-01810-3> .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://schema.org/telephone> "+49 381 65870" .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Kruell-Motor-Company-Dierkower-Allee-3/8236/> .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://schema.org/brand> "Krüll Motor Company & Co KG" .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41042303175008E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/9724f98e-0d1c-11e6-bea6-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21817900669853E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "ARAL" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08980-1> .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/telephone> "+49 381 690347" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/serviceUrl> <http://www.aral.de/> .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/brand> "Aral AG" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/faxNumber> "+49 381 690139" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41138141478817E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2bfc46c6-6656-11e4-8a85-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2160894912029E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Parkhaus am Gericht" .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-00940-88> .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://schema.org/telephone> "+49 381 45670" .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Parkhaus-Am-Gericht-August-Bebel-Strasse-88/4657/> .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://schema.org/brand> "WIRO GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40855702560292E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c4037dc-6656-11e4-8a96-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21345242020826E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "City-Parkhaus" .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-13> .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://schema.org/telephone> "+49 381 45670" .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/City-Parkhaus-Lange-Strasse-11-15/4658/> .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://schema.org/brand> "WIRO GmbH" .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40901983364242E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/a74970c8-665c-11e4-bebe-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21361498358723E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Tankcenter Rostock" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-3> .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/telephone> "+49 381 681630" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/serviceUrl> <http://www.clever-tanken.de/tankstelle_details/45730> .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/brand> "Tankcenter" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://schema.org/openingHours> "Mo-Fr 05:00-22:00; Sa-So 06:00-22:00" .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40995663003151E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c6bffb6-6656-11e4-8aa4-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2177340977373E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Technologiezentrum Warnemünde" .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-11150-3> .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://schema.org/telephone> "+49 381 5196101" .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Technologiepark-Warnemuende-Friedrich-Barnewitz-Strasse-3/2992/> .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41721485821372E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c188da4-6656-11e4-8a8c-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20778497073427E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Q1" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-88010-1> .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/telephone> "+49 381 8113050" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/serviceUrl> <http://www.q1.eu/de/> .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/brand> "Q1 Tankstellenvertrieb GmbH & Co. KG" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/faxNumber> "+49 381 8113051" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4113956799165E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c2796fa-6656-11e4-8a90-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2080709095649E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Radisson Blu Hotel Rostock" .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-40> .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://schema.org/telephone> "+49 381 37500" .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Radisson-Blu-Hotel-Lange-Strasse-40/3072/> .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://schema.org/brand> "RWE AG" .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40894943124397E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c3c3934-6656-11e4-8a95-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21298330828608E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "JET" .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08180-10> .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/telephone> "+49 381 4002969" .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/serviceUrl> <https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ00256> .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/brand> "JET Tankstellen Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40756823993564E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c0f1c88-6656-11e4-8a89-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20942221278297E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Parkplatz Kirchenplatz Warnemünde" .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-05910-1> .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://schema.org/telephone> "+49 381 8051233" .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Kirchenplatz-Warnemuende-Kirchenplatz-1/9523/> .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4176584520625E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/131f48d8-0d17-11e6-bea2-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20854390822619E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Agip" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08290-9> .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/telephone> "+49 381 1209656" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/serviceUrl> <http://travel.eni.com/de_DE/home.html> .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/brand> "ENI Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/faxNumber> "+49 381 1209666" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41290227185013E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c49ac68-6656-11e4-8a99-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20755518021024E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "star" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/telephone> "+49 381 6862806" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/serviceUrl> <http://www.star-tankstellen.de/tanken/tankstellenfinder.html?user_astfinder_pi1%5Btsid%5D=576> .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/brand> "ORLEN Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/faxNumber> "+49 381 6864957" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://schema.org/openingHours> "Mo-So 05:00-23:00" .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41105431958497E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c33bf84-6656-11e4-8a93-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21655574386658E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Volkswagen Zentrum Lütten Klein" .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-3> .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/telephone> "+49 381 776290" .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Luettenklein-Trelleborger-Strasse-3/6533/> .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/brand> "Volkswagen AG" .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/email> "info@luetten-klein.de" .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/faxNumber> "+49 381 7762915" .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://schema.org/openingHours> "Mo-Fr 007:00-19:00; Sa 08:00-12:00" .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41313355169044E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c68b98c-6656-11e4-8aa3-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20600653009025E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "team" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10660-1> .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/telephone> "+49 381 49689304" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/serviceUrl> <https://www.team.de/energie/tankstellen/standorte/team-tankstelle-rostock-1.html> .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/brand> "team AG" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40595553978511E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c6f111a-6656-11e4-8aa5-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21180366319948E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "TOTAL" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-98> .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/telephone> "+49 381 683783" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/fuelType> "wasserstoff" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/serviceUrl> <http://www.total.de/highlights/tankstellenfinder.html> .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/brand> "TOTAL Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://schema.org/openingHours> "Mo-Fr 05:00-20:00; Sa-So 06:00-20:00" .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4080519515873E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c756718-6656-11e4-8aa7-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21891918948839E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "ARAL" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-11> .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/telephone> "+49 381 690210" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/serviceUrl> <http://www.aral.de/> .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/brand> "Aral AG" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/faxNumber> "+49 381 694162" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40993279155775E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c7234b2-6656-11e4-8aa6-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21748542295979E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "ARAL" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-68> .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/telephone> "+49 381 690324" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/serviceUrl> <http://www.aral.de/> .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/brand> "Aral AG" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/faxNumber> "+49 381 690325" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40813003377708E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c787ff2-6656-11e4-8aa8-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21940308338026E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Shell" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-06530-50> .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/telephone> "+49 381 20749814" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/serviceUrl> <https://www.shell.de/> .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/brand> "Shell Deutschland Oil GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://schema.org/openingHours> "Mo-So 00:00-03:00,03:30-23:59" .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41307700330944E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c62926e-6656-11e4-8aa1-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20579154853252E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "CITTI TANK" .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/telephone> "+49 381 25278614" .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/serviceUrl> <http://www.citti-park-rostock.de/anbieter/detail/citti-tank-rostock.html> .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/brand> "CITTI Märkte GmbH & Co. KG" .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://schema.org/openingHours> "Mo-Fr 06:00-20:00; Sa 07:00-20:00" .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4123748098389E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c4cc7b8-6656-11e4-8a9a-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2074709091938E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "star" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10500-1> .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/telephone> "+49 381 668899" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/serviceUrl> <http://www.star-tankstellen.de/tanken/tankstellenfinder.html?user_astfinder_pi1%5Btsid%5D=459> .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/brand> "ORLEN Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/faxNumber> "+49 381 668900" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://schema.org/openingHours> "Mo-Fr 05:30-22:00; Sa 06:00-18:00; So 10:00-20:00" .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41394501446766E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c2f8874-6656-11e4-8a92-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21668466459817E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "TOTAL" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-53> .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/telephone> "+49 381 4903119" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/serviceUrl> <http://www.total.de/highlights/tankstellenfinder.html> .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/brand> "TOTAL Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40934910472431E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c46923a-6656-11e4-8a98-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21157846897101E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "TOTAL" .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-09090-7> .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/telephone> "+49 381 8083459" .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/serviceUrl> <http://www.total.de/highlights/tankstellenfinder.html> .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/brand> "TOTAL Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://schema.org/openingHours> "06:00-21:00" .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40953688994407E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c23ce1c-6656-11e4-8a8f-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20831355480668E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "TOTAL" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-70> .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/telephone> "+49 381 712092" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/serviceUrl> <http://www.total.de/highlights/tankstellenfinder.html> .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/brand> "TOTAL Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41315188692495E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c5f7c6e-6656-11e4-8aa0-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20626911250721E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "JET" .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-09680-45> .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/telephone> "+49 381 80899116" .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/serviceUrl> <https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05823> .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/brand> "JET Tankstellen Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40949039815979E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c1febbc-6656-11e4-8a8e-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21037640266347E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Yachthafenresidenz Hohe Düne" .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-12960-1> .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://schema.org/telephone> "+49 381 50400" .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock-Warnemuende/Yachthafenresidenz-Hohe-Duene-Am-Yachthafen-1/6284/> .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://schema.org/brand> "Yachthafenresidenz Hohe Düne" .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41770515635109E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c1c2216-6656-11e4-8a8d-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20987722703693E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "rostock apartment LIVING HOTEL" .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-03140-10> .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://schema.org/telephone> "+49 381 44438090" .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Living-Hotel-Grosse-Wasserstrasse-10/18828/> .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://schema.org/brand> "rostock apartment LIVING HOTEL" .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://schema.org/email> "info@rostock-apartment.de" .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://schema.org/faxNumber> "+49 381 444380999" .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40881125776244E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/f025481a-3a00-11e7-aa85-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21420751840822E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrudenplatz" .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-02870-2> .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Gertrudenplatz-Gertrudenplatz-2/19328/> .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40882443072356E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/0db72a62-39ff-11e7-aa82-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.212453630566E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "City-Ladesäule" .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-27> .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/City-Ladesaeule-Lange-Strasse-27/19579/> .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40898180119523E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/0e8c8a5e-39ff-11e7-aa83-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21355688759236E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://www.w3.org/2000/01/rdf-schema#label> "Ladesäule am Hafen" .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-00530-3> .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://schema.org/serviceUrl> <http://www.goingelectric.de/stromtankstellen/Deutschland/Rostock/Ladesaeule-am-Hafen-Am-Strande-3a/19577/> .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://schema.org/brand> "Stadtwerke Rostock AG" .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4092550131425E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/d4bbcdd4-39ff-11e7-aa84-0050569946ac> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21446784955938E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "ARAL" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-60> .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/telephone> "+49 381 5016" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/serviceUrl> <http://www.aral.de/> .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/brand> "Aral AG" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/faxNumber> "+49 381 5193274" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41681499937907E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c158122-6656-11e4-8a8b-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.20802667696771E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "AVIA" .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-10390-5> .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/telephone> "+49 451 1503315" .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/serviceUrl> <http://www.avia.de/privatkunden.html> .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/brand> "AVIA Mineralöl-GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/faxNumber> "+49 451 1503390" .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41281043359404E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c02bb78-6656-11e4-8a86-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21548017532561E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "HEM" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-11160-6> .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/telephone> "+49 381 66687889" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/serviceUrl> <http://www.meinehem.de/tankstellen-finder/details/gasstation/rostock-zum-suedtor-6/> .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/brand> "Deutsche Tamoil GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.41378536729913E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c53240a-6656-11e4-8a9c-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21139514195063E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "Shell" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-03530-75> .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/telephone> "+49 381 697431" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/serviceUrl> <https://www.shell.de/> .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/brand> "Shell Deutschland Oil GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://schema.org/openingHours> "24/7" .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.4109975782449E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c37f6bc-6656-11e4-8a94-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2168102036403E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GasStation> .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://www.w3.org/2000/01/rdf-schema#label> "TOTAL" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/address> <https://portal.limbo-project.org/address/13003-130030000-130030000000-02030-26> .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/telephone> "+49 381 442084" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/fuelType> "lkwdiesel" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/fuelType> "benzin" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/fuelType> "autogas" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/fuelType> "diesel" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/serviceUrl> <http://www.total.de/highlights/tankstellenfinder.html> .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/brand> "TOTAL Deutschland GmbH" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://schema.org/openingHours> "06:00-22:00" .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "5.40767168730902E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/tankstellen/2c0bc2cc-6656-11e4-8a88-0050569b7e95> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.21192394539343E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-58> <http://www.w3.org/2000/01/rdf-schema#label> "Warnowufer 58 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-58> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-58> <http://schema.org/streetAddress> "Warnowufer 58" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-58> <http://schema.org/postalCode> "18057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-13550-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-13550-1> <http://www.w3.org/2000/01/rdf-schema#label> "Am Golfplatz 1 Seebad Diedrichshagen" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-13550-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-13550-1> <http://schema.org/streetAddress> "Am Golfplatz 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-13550-1> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-38> <http://www.w3.org/2000/01/rdf-schema#label> "An der Stadtautobahn 38 Lütten Klein" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-38> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-38> <http://schema.org/streetAddress> "An der Stadtautobahn 38" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-38> <http://schema.org/postalCode> "18107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-07650-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-07650-16> <http://www.w3.org/2000/01/rdf-schema#label> "Platz der Freundschaft 16 Südstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-07650-16> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-07650-16> <http://schema.org/streetAddress> "Platz der Freundschaft 16" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-07650-16> <http://schema.org/postalCode> "18059"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> <http://www.w3.org/2000/01/rdf-schema#label> "Handwerkstr. 1 Schmarl" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> <http://schema.org/streetAddress> "Handwerkstr. 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10140-1> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-12> <http://www.w3.org/2000/01/rdf-schema#label> "Seestr. 12 Seebad Warnemünde" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-12> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-12> <http://schema.org/streetAddress> "Seestr. 12" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-12> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09240-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09240-1> <http://www.w3.org/2000/01/rdf-schema#label> "Verbindungsweg 1 Brinckmansdorf" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09240-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09240-1> <http://schema.org/streetAddress> "Verbindungsweg 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09240-1> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11130-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11130-3> <http://www.w3.org/2000/01/rdf-schema#label> "Timmermannsstrat 3 Brinckmansdorf" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11130-3> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11130-3> <http://schema.org/streetAddress> "Timmermannsstrat 3" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11130-3> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> <http://www.w3.org/2000/01/rdf-schema#label> "Hinrichsdorfer Str. 7 Toitenwinkel" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> <http://www.w3.org/2000/01/rdf-schema#label> "Hinrichsdorfer Str. 7 Dierkow-Neu" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> <http://schema.org/streetAddress> "Hinrichsdorfer Str. 7" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03600-7> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01650-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01650-2> <http://www.w3.org/2000/01/rdf-schema#label> "Budentannenweg 2 Seebad Markgrafenheide" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01650-2> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01650-2> <http://schema.org/streetAddress> "Budentannenweg 2" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01650-2> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-19> <http://www.w3.org/2000/01/rdf-schema#label> "Seestr. 19 Seebad Warnemünde" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-19> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-19> <http://schema.org/streetAddress> "Seestr. 19" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08520-19> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-13> <http://www.w3.org/2000/01/rdf-schema#label> "Trelleborger Str. 13 Lütten Klein" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-13> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-13> <http://schema.org/streetAddress> "Trelleborger Str. 13" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-13> <http://schema.org/postalCode> "18107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10060-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10060-2> <http://www.w3.org/2000/01/rdf-schema#label> "Fritz-Triddelfitz-Weg 2 Reutershagen" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10060-2> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10060-2> <http://schema.org/streetAddress> "Fritz-Triddelfitz-Weg 2" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10060-2> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09670-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09670-20> <http://www.w3.org/2000/01/rdf-schema#label> "Werftallee 20 Groß Klein" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09670-20> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09670-20> <http://schema.org/streetAddress> "Werftallee 20" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09670-20> <http://schema.org/postalCode> "18109"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10480-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10480-11> <http://www.w3.org/2000/01/rdf-schema#label> "Brückenweg 11 Dierkow-Neu" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10480-11> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10480-11> <http://schema.org/streetAddress> "Brückenweg 11" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10480-11> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12540-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12540-1> <http://www.w3.org/2000/01/rdf-schema#label> "Zur Hansemesse 1 Schmarl" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12540-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12540-1> <http://schema.org/streetAddress> "Zur Hansemesse 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12540-1> <http://schema.org/postalCode> "18106"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03680-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03680-14> <http://www.w3.org/2000/01/rdf-schema#label> "Holbeinplatz 14 Reutershagen" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03680-14> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03680-14> <http://schema.org/streetAddress> "Holbeinplatz 14" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03680-14> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06980-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06980-25> <http://www.w3.org/2000/01/rdf-schema#label> "Messestr. 25 Evershagen" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06980-25> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06980-25> <http://schema.org/streetAddress> "Messestr. 25" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06980-25> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01810-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01810-3> <http://www.w3.org/2000/01/rdf-schema#label> "Dierkower Allee 3 Dierkow-Neu" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01810-3> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01810-3> <http://schema.org/streetAddress> "Dierkower Allee 3" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-01810-3> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08980-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08980-1> <http://www.w3.org/2000/01/rdf-schema#label> "Toitenwinkler Allee 1 Toitenwinkel" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08980-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08980-1> <http://schema.org/streetAddress> "Toitenwinkler Allee 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08980-1> <http://schema.org/postalCode> "18147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00940-88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00940-88> <http://www.w3.org/2000/01/rdf-schema#label> "August-Bebel-Str. 88 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00940-88> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00940-88> <http://schema.org/streetAddress> "August-Bebel-Str. 88" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00940-88> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-13> <http://www.w3.org/2000/01/rdf-schema#label> "Lange Str. 13 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-13> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-13> <http://schema.org/streetAddress> "Lange Str. 13" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-13> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-3> <http://www.w3.org/2000/01/rdf-schema#label> "Rövershäger Chaussee 3 Brinckmansdorf" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-3> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-3> <http://schema.org/streetAddress> "Rövershäger Chaussee 3" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-3> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11150-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11150-3> <http://www.w3.org/2000/01/rdf-schema#label> "Friedrich-Barnewitz-Str. 3 Seebad Warnemünde" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11150-3> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11150-3> <http://schema.org/streetAddress> "Friedrich-Barnewitz-Str. 3" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11150-3> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-88010-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-88010-1> <http://www.w3.org/2000/01/rdf-schema#label> "Fischerweg 1 Schmarl" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-88010-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-88010-1> <http://schema.org/streetAddress> "Fischerweg 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-88010-1> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-40> <http://www.w3.org/2000/01/rdf-schema#label> "Lange Str. 40 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-40> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-40> <http://schema.org/streetAddress> "Lange Str. 40" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-40> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08180-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08180-10> <http://www.w3.org/2000/01/rdf-schema#label> "Satower Str. 10 Südstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08180-10> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08180-10> <http://schema.org/streetAddress> "Satower Str. 10" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08180-10> <http://schema.org/postalCode> "18059"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-05910-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-05910-1> <http://www.w3.org/2000/01/rdf-schema#label> "Kirchenplatz 1 Seebad Warnemünde" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-05910-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-05910-1> <http://schema.org/streetAddress> "Kirchenplatz 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-05910-1> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08290-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08290-9> <http://www.w3.org/2000/01/rdf-schema#label> "Schmarler Damm 9 Schmarl" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08290-9> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08290-9> <http://schema.org/streetAddress> "Schmarler Damm 9" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08290-9> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-3> <http://www.w3.org/2000/01/rdf-schema#label> "Trelleborger Str. 3 Lütten Klein" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-3> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-3> <http://schema.org/streetAddress> "Trelleborger Str. 3" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10450-3> <http://schema.org/postalCode> "18107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10660-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10660-1> <http://www.w3.org/2000/01/rdf-schema#label> "Lise-Meitner-Ring 1 Südstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10660-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10660-1> <http://schema.org/streetAddress> "Lise-Meitner-Ring 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10660-1> <http://schema.org/postalCode> "18059"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-98> <http://www.w3.org/2000/01/rdf-schema#label> "Tessiner Str. 98 Brinckmansdorf" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-98> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-98> <http://schema.org/streetAddress> "Tessiner Str. 98" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-98> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-11> <http://www.w3.org/2000/01/rdf-schema#label> "Rövershäger Chaussee 11 Dierkow-Neu" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-11> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-11> <http://schema.org/streetAddress> "Rövershäger Chaussee 11" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08100-11> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-68> <http://www.w3.org/2000/01/rdf-schema#label> "Tessiner Str. 68 Brinckmansdorf" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-68> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-68> <http://schema.org/streetAddress> "Tessiner Str. 68" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-08820-68> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06530-50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06530-50> <http://www.w3.org/2000/01/rdf-schema#label> "St.-Petersburger Str. 50 Lütten Klein" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06530-50> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06530-50> <http://schema.org/streetAddress> "St.-Petersburger Str. 50" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06530-50> <http://schema.org/postalCode> "18107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10500-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10500-1> <http://www.w3.org/2000/01/rdf-schema#label> "Große Rampe 1 Nienhagen" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10500-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10500-1> <http://schema.org/streetAddress> "Große Rampe 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10500-1> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-53> <http://www.w3.org/2000/01/rdf-schema#label> "Warnowufer 53 Kröpeliner-Tor-Vorstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-53> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-53> <http://schema.org/streetAddress> "Warnowufer 53" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09560-53> <http://schema.org/postalCode> "18057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09090-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09090-7> <http://www.w3.org/2000/01/rdf-schema#label> "Ulrich-von-Hutten-Str. 7 Reutershagen" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09090-7> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09090-7> <http://schema.org/streetAddress> "Ulrich-von-Hutten-Str. 7" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09090-7> <http://schema.org/postalCode> "18069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-70> <http://www.w3.org/2000/01/rdf-schema#label> "An der Stadtautobahn 70 Lütten Klein" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-70> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-70> <http://schema.org/streetAddress> "An der Stadtautobahn 70" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-70> <http://schema.org/postalCode> "18107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09680-45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09680-45> <http://www.w3.org/2000/01/rdf-schema#label> "Werftstr. 45 Kröpeliner-Tor-Vorstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09680-45> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09680-45> <http://schema.org/streetAddress> "Werftstr. 45" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-09680-45> <http://schema.org/postalCode> "18057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12960-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12960-1> <http://www.w3.org/2000/01/rdf-schema#label> "Am Yachthafen 1 Seebad Hohe Düne" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12960-1> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12960-1> <http://schema.org/streetAddress> "Am Yachthafen 1" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-12960-1> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03140-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03140-10> <http://www.w3.org/2000/01/rdf-schema#label> "Große Wasserstr. 10 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03140-10> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03140-10> <http://schema.org/streetAddress> "Große Wasserstr. 10" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03140-10> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02870-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02870-2> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrudenplatz 2 Kröpeliner-Tor-Vorstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02870-2> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02870-2> <http://schema.org/streetAddress> "Gertrudenplatz 2" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02870-2> <http://schema.org/postalCode> "18057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-27> <http://www.w3.org/2000/01/rdf-schema#label> "Lange Str. 27 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-27> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-27> <http://schema.org/streetAddress> "Lange Str. 27" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-06450-27> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00530-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00530-3> <http://www.w3.org/2000/01/rdf-schema#label> "Am Strande 3 Stadtmitte" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00530-3> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00530-3> <http://schema.org/streetAddress> "Am Strande 3" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00530-3> <http://schema.org/postalCode> "18055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-60> <http://www.w3.org/2000/01/rdf-schema#label> "An der Stadtautobahn 60 Seebad Warnemünde" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-60> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-60> <http://schema.org/streetAddress> "An der Stadtautobahn 60" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-00650-60> <http://schema.org/postalCode> "18119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10390-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10390-5> <http://www.w3.org/2000/01/rdf-schema#label> "Am Liepengraben 5 Hinrichsdorf" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10390-5> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10390-5> <http://schema.org/streetAddress> "Am Liepengraben 5" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-10390-5> <http://schema.org/postalCode> "18147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11160-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11160-6> <http://www.w3.org/2000/01/rdf-schema#label> "Zum Südtor 6 Peez" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11160-6> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11160-6> <http://schema.org/streetAddress> "Zum Südtor 6" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-11160-6> <http://schema.org/postalCode> "18147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03530-75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03530-75> <http://www.w3.org/2000/01/rdf-schema#label> "Lorenzstr. 75 Dierkow-Neu" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03530-75> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03530-75> <http://schema.org/streetAddress> "Lorenzstr. 75" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-03530-75> <http://schema.org/postalCode> "18146"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02030-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02030-26> <http://www.w3.org/2000/01/rdf-schema#label> "Erich-Schlesinger-Str. 26 Südstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02030-26> <http://schema.org/addressLocality> "Rostock, Hanse- und Universitätsstadt" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02030-26> <http://schema.org/streetAddress> "Erich-Schlesinger-Str. 26" .
+<https://portal.limbo-project.org/address/13003-130030000-130030000000-02030-26> <http://schema.org/postalCode> "18059"^^<http://www.w3.org/2001/XMLSchema#integer> .

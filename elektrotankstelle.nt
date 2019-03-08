@@ -1,0 +1,28 @@
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/Charger> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0> <http://www.w3.org/2000/01/rdf-schema#label> "Beethoven Parkhaus" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0> <http://schema.org/address> <urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0/object> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0/object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0/object> <http://schema.org/addressLocality> "Bonn" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0/object> <http://schema.org/streetAddress> "Engeltalstraße (Einfahrt)" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#0/object> <http://schema.org/postalCode> "53111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/Charger> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1> <http://www.w3.org/2000/01/rdf-schema#label> "Stadthausgarage" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1> <http://schema.org/address> <urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1/object> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1/object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1/object> <http://schema.org/addressLocality> "Bonn" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1/object> <http://schema.org/streetAddress> "Weiherstraße (Einfahrt)" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#1/object> <http://schema.org/postalCode> "53111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/Charger> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2> <http://www.w3.org/2000/01/rdf-schema#label> "OBI-Baumark" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2> <http://schema.org/address> <urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2/object> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2/object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2/object> <http://schema.org/addressLocality> "Bonn" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2/object> <http://schema.org/streetAddress> "Bornheimer Straße 166" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#2/object> <http://schema.org/postalCode> "53119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/Charger> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3> <http://www.w3.org/2000/01/rdf-schema#label> "Kameha Grand Bonn" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3> <http://schema.org/address> <urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3/object> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3/object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3/object> <http://schema.org/addressLocality> "Bonn" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3/object> <http://schema.org/streetAddress> "Am Bonner Bogen 1" .
+<urn:instance:1539006899784_elektrotrankstellenstadtwerkebonn062016csv#3/object> <http://schema.org/postalCode> "53227"^^<http://www.w3.org/2001/XMLSchema#integer> .
